@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonzo-e-4a09b9151/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Medium" />
   </a>
 </p>
 
