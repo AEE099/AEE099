@@ -3,18 +3,19 @@
 <h3>Data Science & Machine Learning</h3>
 
  <p align="center">
-    <a href="https://www.github.com/kalashbg-dev" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/github/followers/kalashbg-dev?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+    <a href="https://github.com/AEE099" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/github/followers/AEE099?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=kalashbg-dev&style=flat-square&color=blue" alt="Profile views" />
-  </p>
+   
 </div>
+
+---
 
 ## 📌 Profile Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alonzo-e-4a09b9151/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
