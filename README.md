@@ -56,7 +56,7 @@
 
 ## 💖 Support My Work
 <p align="center">
-  <a href="https://www.paypal.com/qrcodes/p2pqrc/WM5WHLPLPYZ5U ">
+  <a href="https://paypal.me/AlonzoE99?country.x=US&locale.x=en_US">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
 </p>
